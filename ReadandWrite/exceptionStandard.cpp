@@ -20,7 +20,7 @@ int main()
         //akan dieksekusi karna array data hanya memiliki 3 elemen
     }
     cout << "Baris Program yang berakhir" << endl;
-
+    //penanda II: bahwa program berjalan tanpa berhenti meskipun terjadi kesalahan
     return 0;
     
 }
